@@ -2,7 +2,7 @@
 
 > Chatbot inteligente que responde perguntas sobre documentos usando RAG (Retrieval Augmented Generation). Faça upload de um PDF, DOCX ou TXT e converse com o conteúdo do arquivo em tempo real.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Upload de documento | Resposta com fontes |
 |---|---|
-| ![Upload](screenshots/upload.png) | ![Chat](screenshots/chat.png) |
+| ![Upload](screenshots/upload.png.png) | ![Chat](screenshots/chat.png.png) |
 
 ---
 
