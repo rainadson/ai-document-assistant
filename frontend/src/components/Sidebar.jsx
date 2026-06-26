@@ -27,9 +27,9 @@ export default function Sidebar({ documents, onUpload }) {
   }
 
   return (
-    <aside className="w-72 min-w-[288px] bg-gray-900 border-r border-gray-800 flex flex-col">
-      {/* Logo */}
-      <div className="p-5 border-b border-gray-800 flex items-center gap-3">
+    <aside className="w-72 min-w-[288px] h-full bg-gray-900 border-r border-gray-800 flex flex-col">
+      {/* Logo — hidden on mobile (shown in App header instead) */}
+      <div className="hidden md:flex p-5 border-b border-gray-800 items-center gap-3">
         <BrainCircuit className="text-violet-400" size={24} />
         <div>
           <h1 className="text-sm font-semibold text-white leading-tight">AI Document Assistant</h1>
